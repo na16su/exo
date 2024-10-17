@@ -24,7 +24,7 @@ install_requires = [
   "tqdm==4.66.4",
   "transformers==4.43.3",
   "uuid==1.30",
-  "tinygrad @ git+https://github.com/tinygrad/tinygrad.git@232edcfd4f8b388807c64fb1817a7668ce27cbad",
+  "tinygrad @ git+https://github.com/lorenzoliusso/tinygrad.git@b1e9a47454778898ee7c9feb22584e62241fefee",
 ]
 
 # Add macOS-specific packages if on Darwin (macOS)
